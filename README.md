@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaume93
 - 👀 I’m interested in React & React Native
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Next
 - 📫 How to reach me jaumec93@gmail.com
 
 <!---
