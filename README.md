@@ -1,7 +1,7 @@
 <table width="100% !important"><tr><td valign="top" width="50%">
 
 ##### NOW
-- ✨ Working as Frontend Lead Debeloper in Barcelona.
+- ✨ Working as Frontend Developer in Barcelona.
 - 🎯 Building React apps
 
 ##### BIO
